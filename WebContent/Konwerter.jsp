@@ -5,6 +5,9 @@
 <head>
 <meta charset="UTF-8">
 <title>Konwerter Temperatury</title>
+<style>   
+body {
+background-color: #d24dff}</style> <!-- color change  --> 
 </head>
 <body>
 <h1>Wynik konwersji temperatury</h1>
